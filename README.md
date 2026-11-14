@@ -1,4 +1,4 @@
-# ❤️ HEARTLENS-AI
+#  HEARTLENS-AI
 
 ## Intelligent Cardiovascular Risk Detection System
 
@@ -9,7 +9,7 @@ This project focuses on preventive healthcare by providing fast, accessible, and
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
 - Real-Time Cardiovascular Risk Analysis
 - AI-Based Health Evaluation Logic
@@ -21,7 +21,7 @@ This project focuses on preventive healthcare by providing fast, accessible, and
 
 ---
 
-# 🩺 Health Parameters Analyzed
+#  Health Parameters Analyzed
 
 The system evaluates the following patient health metrics:
 
@@ -33,7 +33,7 @@ The system evaluates the following patient health metrics:
 
 ---
 
-# ⚙️ Technology Stack
+#  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -43,7 +43,7 @@ The system evaluates the following patient health metrics:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 HEARTLENS-AI/
@@ -54,7 +54,7 @@ HEARTLENS-AI/
 
 ---
 
-# ▶️ Installation & Execution
+# Installation & Execution
 
 ## Clone Repository
 
@@ -76,7 +76,7 @@ python heartlens.py
 
 ---
 
-# 💡 Sample System Output
+#  Sample System Output
 
 ```text
 ==============================
@@ -93,7 +93,7 @@ Immediate medical consultation required
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The primary objective of HEARTLENS-AI is to promote early cardiovascular awareness through intelligent health analysis using Python-based AI logic.
 
@@ -101,7 +101,7 @@ The project demonstrates how technology can contribute to accessible and prevent
 
 ---
 
-# 🔥 Future Enhancements
+#  Future Enhancements
 
 - Machine Learning Integration
 - Real Medical Dataset Training
@@ -113,13 +113,13 @@ The project demonstrates how technology can contribute to accessible and prevent
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 BAHUTHARIVU M A
 
 ---
 
-# 📌 Disclaimer
+#  Disclaimer
 
 This project is developed for educational, research, and hackathon purposes only.  
 It is not intended to replace professional medical diagnosis or consultation.
